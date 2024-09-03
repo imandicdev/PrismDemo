@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\prismdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:prismdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\modulea.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\moduleamodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\viewmodels\\predictionoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\viewmodels\\viewaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\viewmodels\\asyncobservablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\models\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\models\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\models\\modelgoaloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\models\\teamreadrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\views\\shellwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:views\\shellwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\core\\regions\\stackpanelregionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:core\\regions\\stackpanelregionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\viewmodels\\messagedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:viewmodels\\messagedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\viewmodels\\shellwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:viewmodels\\shellwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\views\\viewa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\dialogs\\messagedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:dialogs\\messagedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729D25DE-E5C6-4F7F-B897-4760CCA7EFD4}|..\\ModuleA\\ModuleA.csproj|c:\\users\\cyber\\source\\repos\\modulea\\views\\viewa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|c:\\users\\cyber\\source\\repos\\prismdemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C3A53-7461-4E02-A2AC-87C0DDF62F41}|PrismDEMO.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrismDEMO",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\PrismDEMO.csproj",
+              "RelativeDocumentMoniker": "PrismDEMO.csproj",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\PrismDEMO.csproj",
+              "RelativeToolTip": "PrismDEMO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T23:53:05.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleA",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ModuleA.csproj",
+              "RelativeDocumentMoniker": "..\\ModuleA\\ModuleA.csproj",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ModuleA.csproj",
+              "RelativeToolTip": "..\\ModuleA\\ModuleA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T23:49:52.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsyncObservableCollection.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ViewModels\\AsyncObservableCollection.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\ViewModels\\AsyncObservableCollection.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ViewModels\\AsyncObservableCollection.cs",
+              "RelativeToolTip": "..\\ModuleA\\ViewModels\\AsyncObservableCollection.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-29T16:41:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelInput.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\ModelInput.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\Models\\ModelInput.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\ModelInput.cs",
+              "RelativeToolTip": "..\\ModuleA\\Models\\ModelInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-27T21:07:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamReadRecord.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\TeamReadRecord.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\Models\\TeamReadRecord.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\TeamReadRecord.cs",
+              "RelativeToolTip": "..\\ModuleA\\Models\\TeamReadRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-02T19:33:02.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleAModule.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ModuleAModule.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\ModuleAModule.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ModuleAModule.cs",
+              "RelativeToolTip": "..\\ModuleA\\ModuleAModule.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-26T21:53:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelGoalOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\ModelGoalOutput.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\Models\\ModelGoalOutput.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\ModelGoalOutput.cs",
+              "RelativeToolTip": "..\\ModuleA\\Models\\ModelGoalOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-06T20:45:24.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PredictionOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ViewModels\\PredictionOutput.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\ViewModels\\PredictionOutput.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ViewModels\\PredictionOutput.cs",
+              "RelativeToolTip": "..\\ModuleA\\ViewModels\\PredictionOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-08T18:47:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShellWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\Views\\ShellWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ShellWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\Views\\ShellWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ShellWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-26T18:47:48.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\ModelOutput.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\Models\\ModelOutput.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Models\\ModelOutput.cs",
+              "RelativeToolTip": "..\\ModuleA\\Models\\ModelOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-27T23:47:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogService.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\DialogService.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\DialogService.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\DialogService.cs",
+              "RelativeToolTip": "..\\ModuleA\\DialogService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-06T15:49:28.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewAViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ViewModels\\ViewAViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\ViewModels\\ViewAViewModel.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\ViewModels\\ViewAViewModel.cs",
+              "RelativeToolTip": "..\\ModuleA\\ViewModels\\ViewAViewModel.cs",
+              "ViewState": "AQIAAPgBAAAAAAAAAADwv5sCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-13T16:41:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StackPanelRegionAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\Core\\Regions\\StackPanelRegionAdapter.cs",
+              "RelativeDocumentMoniker": "Core\\Regions\\StackPanelRegionAdapter.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\Core\\Regions\\StackPanelRegionAdapter.cs",
+              "RelativeToolTip": "Core\\Regions\\StackPanelRegionAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-12-31T18:20:15.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewA.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Views\\ViewA.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ModuleA\\Views\\ViewA.xaml.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Views\\ViewA.xaml.cs",
+              "RelativeToolTip": "..\\ModuleA\\Views\\ViewA.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-26T18:00:36.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewA.xaml",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Views\\ViewA.xaml",
+              "RelativeDocumentMoniker": "..\\ModuleA\\Views\\ViewA.xaml",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\ModuleA\\Views\\ViewA.xaml",
+              "RelativeToolTip": "..\\ModuleA\\Views\\ViewA.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2022-08-26T17:54:59.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShellWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\ViewModels\\ShellWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ShellWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\ViewModels\\ShellWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ShellWindowViewModel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-07T20:51:12.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\Dialogs\\MessageDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\MessageDialog.xaml",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\Dialogs\\MessageDialog.xaml",
+              "RelativeToolTip": "Dialogs\\MessageDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2022-12-31T18:20:13.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2022-11-07T20:35:13.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageDialogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\ViewModels\\MessageDialogViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MessageDialogViewModel.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\ViewModels\\MessageDialogViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MessageDialogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-13T17:52:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-26T21:54:37.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\cyber\\source\\repos\\PrismDEMO\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-26T21:54:47.228Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

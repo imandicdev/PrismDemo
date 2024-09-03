@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "3.1.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\cyber\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cyber\\.nuget\\packages",
+      "D:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\20.2.0.36\\ToolboxNuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
